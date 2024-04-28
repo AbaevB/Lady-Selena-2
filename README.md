@@ -1,2 +1,3 @@
-# bootstrap-site
-Template
+# Lady Selena 2
+
+> Сайт мебельного магазина для Елены Кожевниковой.
